@@ -1,0 +1,443 @@
+[
+  {
+    "ownerName": "Mahadev Prasad H N",
+    "registeredon": "28/05/2020",
+    "contactNo": "9876543210",
+    "lastserviced": "21/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 13 AS 1056",
+    "chassisNo": "8798711719",
+    "address": "Hassan, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Rakshith A V",
+    "registeredon": "07/05/2021",
+    "contactNo": "9876543210",
+    "lastserviced": "21/1/2024",
+    "mail": "rakshitgowda78@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 13 ES 7666",
+    "chassisNo": "8798711719",
+    "address": "Hassan, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "66 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x0002de/IOR_R_15_2_495_0009.jp2/full/!1200,1200/0/default.jpg",
+      "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x0002de/IOR_R_15_2_495_0009.jp2/full/!1200,1200/0/default.jpg",
+      "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x0002de/IOR_R_15_2_495_0009.jp2/full/!1200,1200/0/default.jpg"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Mr. Sudir Murthy",
+    "registeredon": "24/12/2021",
+    "contactNo": "9876543210",
+    "lastserviced": "21/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 05 KN 8225",
+    "chassisNo": "8798711719",
+    "address": "Shantigramha, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [12.909675, 77.606864],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [12.926770311472724, 77.58029937744142],
+      [12.916331549999999, 77.62132874082187],
+      [12.897321853171903, 77.6256823539734],
+      [12.892385550609017, 77.59913921356203]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Saurabh Gupta",
+    "registeredon": "12/02/2024",
+    "contactNo": "9876543210",
+    "lastserviced": "16/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 13 ES 8587",
+    "chassisNo": "8798711719",
+    "address": "Bengaluru, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Shubham kumar Vaibhav",
+    "registeredon": "01/01/2022",
+    "contactNo": "9876543210",
+    "lastserviced": "21/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "BR 05 AB 8845",
+    "chassisNo": "8798711719",
+    "address": "Patna, Bihar",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [12.909675, 77.606864],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [12.926770311472724, 77.58029937744142],
+      [12.916331549999999, 77.62132874082187],
+      [12.897321853171903, 77.6256823539734],
+      [12.892385550609017, 77.59913921356203]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Ashutosh Singh",
+    "registeredon": "19/09/2023",
+    "contactNo": "9876543210",
+    "lastserviced": "16/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 13 ES 4265",
+    "chassisNo": "8798711719",
+    "address": "Hassan, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Mayank  Awesti",
+    "registeredon": "05/09/2021",
+    "contactNo": "9876543210",
+    "lastserviced": "21/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 13 ES 4275",
+    "chassisNo": "8798711719",
+    "address": "Bengaluru, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Prashanth Joshi",
+    "registeredon": "13/03/2020",
+    "contactNo": "9876543210",
+    "lastserviced": "16/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 13 ES 4380",
+    "chassisNo": "8798711719",
+    "address": "Mysuru, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Bhupendra Singh",
+    "registeredon": "22/08/2021",
+    "contactNo": "9876543210",
+    "lastserviced": "16/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 13 HS 1016",
+    "chassisNo": "8798711719",
+    "address": "Bhopal, Madya Pradesh",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "George Martin",
+    "registeredon": "26/02/2021",
+    "contactNo": "9876543210",
+    "lastserviced": "16/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 13 HS 7596",
+    "chassisNo": "8798711719",
+    "address": "Mysuru, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "statisfactory",
+    "odometer": "3596 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  },
+  {
+    "ownerName": "Ajith Kumar",
+    "registeredon": "24/02/2022",
+    "contactNo": "9876543210",
+    "lastserviced": "16/1/2024",
+    "mail": "user75698@gmail.com",
+    "premiumpurchased": "16/07/2023",
+    "vehicleno": "KA 01 AV 7678",
+    "chassisNo": "8798711719",
+    "address": "Darwad, Karnatka",
+    "geofencecreated": "15/01/2024",
+    "Battery": "Good",
+    "odometer": "4486 km",
+    "avgrange": "74 km",
+    "avgspeed": "56 km/h",
+    "bluetoothusage": "56%",
+    "location": [13.0033, 76.1004],
+    "chassisNumber": "1234567890",
+
+    "geofence": [
+      [13.01409185, 76.16518462720137],
+      [12.990234449999999, 76.11522880664505],
+      [12.9434349, 75.7862318],
+      [13.023814250000001, 76.1037125453154]
+    ],
+    "documents": [
+      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png"
+    ],
+    "dailyUsage": {
+      "Kilometers": [
+        [1, 13, 14, 13, 2, 12, 13],
+        [11, 31, 41, 22, 32, 13, 13]
+      ],
+      "Time": [
+        [11, 2, 13, 9, 3, 5, 5],
+        [6, 5, 4, 3, 2, 1, 1]
+      ]
+    }
+  }
+]

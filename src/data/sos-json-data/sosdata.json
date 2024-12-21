@@ -1,0 +1,110 @@
+[
+  {
+    "id": "0",
+    "name": "Mahadev H N",
+    "vehicleNo": "KA 13 AB 1234",
+    "location": "Mangalore",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "Karavali road Manglore",
+    "coordinates": [13.0033, 76.1004],
+    "date": "09/02/2024",
+    "time": "9:24 PM",
+    "status": "new"
+  },
+  {
+    "id": "1",
+    "name": "Rakshith A V",
+    "vehicleNo": "KA 07 AB 4544",
+    "location": "Mangalore",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "Karavali road Manglore",
+    "coordinates": [13.0033, 76.1004],
+    "date": "29/10/2023",
+    "time": "6:17 PM",
+    "status": "new"
+  },
+  {
+    "id": "2",
+    "name": "Bhupendher",
+    "vehicleNo": "KA 11 EB 3434 ",
+    "location": "MP",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "Bypass road Haryana",
+    "coordinates": [22.9734, 78.6504],
+    "date": "09/02/2024",
+    "time": "2:47 PM",
+    "status": "resolved"
+  },
+  {
+    "id": "3",
+    "name": "Asim  Delvi",
+    "vehicleNo": "KA 13 AB 1234",
+    "location": "Hassan",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "BM Road",
+    "coordinates": [12.9141, 74.856],
+    "date": "14/12/2023",
+    "time": "9:24 PM",
+    "status": "resolved"
+  },
+  {
+    "id": "4",
+    "name": "Ravi",
+    "vehicleNo": "KA 13 AE 5313",
+    "location": "Hassan",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "Katehalli Hassan",
+    "coordinates": [12.9141, 74.856],
+    "date": "29/01/2024",
+    "time": "9:24 PM",
+    "status": "resolved"
+  },
+  {
+    "id": "5",
+    "name": "Rohith N V",
+    "vehicleNo": "KA 13 AB 1234",
+    "location": "Shravanabelogola",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "MAin road Shravanabelogola",
+    "coordinates": [12.8519, 76.4807],
+    "date": "09/02/2024",
+    "time": "9:24 PM",
+    "status": "resolved"
+  },
+  {
+    "id": "6",
+    "name": "Saurabh",
+    "vehicleNo": "KA 13 AB 1234",
+    "location": "Assam",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "Assam Main road",
+    "coordinates": [12.9141, 74.856],
+    "date": "09/02/2024",
+    "time": "9:24 PM",
+    "status": "resolved"
+  },
+  {
+    "id": "7",
+    "name": "Ashuthosh",
+    "vehicleNo": "KA 13 AB 1234",
+    "location": "Bihar",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "Bihar Main road",
+    "coordinates": [12.9141, 74.856],
+    "date": "09/02/2024",
+    "time": "9:24 PM",
+    "status": "resolved"
+  },
+  {
+    "id": "8",
+    "name": "Virat",
+    "vehicleNo": "KA 13 AB 1234",
+    "location": "Mangalore",
+    "imageSrc": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+    "address": "Delhi Main road",
+    "coordinates": [13.0033, 76.1004],
+    "date": "28/07/2022",
+    "time": "8:17 PM",
+    "status": "resolved"
+  }
+]

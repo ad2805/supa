@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Remove default border and add a bottom border */
+.select-burn {
+    border: none;
+    background-color:transparent;
+    padding: 5px;
+  }
+  
+  /* Remove outline on focus */
+  .select-burn:focus {
+    outline: none;
+  }
+  

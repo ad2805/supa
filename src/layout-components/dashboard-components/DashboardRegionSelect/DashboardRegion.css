@@ -1,0 +1,30 @@
+.custom-dropdown {
+    position: relative;
+  }
+  
+  .states {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background-color: transparent;
+    padding: 5px;
+    font-size: 20px;
+    padding-right: 20px; /* Add padding for the custom arrow */
+  }
+  
+  .states:focus {
+    outline: none;
+  }
+  
+  /* Style the custom arrow */
+  .custom-dropdown::after {
+    content: '▼'; /* Down triangle character */
+    position: absolute;
+    top: 50%;
+    /* right: 0px; */
+    transform: translateY(-50%);
+    font-size: 20px; /* Adjust the size of the arrow as needed */
+    color: #555; /* Arrow color */
+  }
+  

@@ -1,0 +1,80 @@
+
+
+/* height of the container */
+  .leaflet-container {
+    height: 82vh;
+    width: 100%;
+   
+    min-width: fit-content;
+    
+  }
+  
+  .cluster-icon {
+    background-color: #333;
+    height: 2em;
+    width: 2em;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    box-shadow: 0 0 0px 5px #fff;
+  }
+
+  
+
+  
+  .leaflet-control-search {
+    
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px;
+  } 
+
+
+  .map-select-container {
+    position: absolute;
+    top: 10px; /* Adjust the top value as needed */ 
+    left: 90%; /* Adjust the left value as needed */ 
+    z-index: 1000; /* Ensure a high z-index to position it above the map */ 
+  }
+/* Adjust the width and height based on the zoom level */
+.map-container .leaflet-container {
+  &.leaflet-zoom-anim .leaflet-tile,
+  &.leaflet-zoom-anim .leaflet-shadow,
+  &.leaflet-tile-container {
+    width: auto !important;
+  }
+
+  &.leaflet-zoom-anim .leaflet-popup {
+    transform: scale(0);
+  }
+
+  &.leaflet-zoom-anim .leaflet-marker-icon,
+  &.leaflet-zoom-anim .leaflet-marker-shadow,
+  &.leaflet-tile,
+  &.leaflet-objects-pane,
+  &.leaflet-shadow-pane {
+    transform-origin: 0 0;
+  }
+
+  &.leaflet-zoom-anim .leaflet-popup {
+    will-change: transform;
+  }
+
+  &.leaflet-touch-drag .leaflet-container,
+  &.leaflet-touch-drag .leaflet-tile,
+  &.leaflet-touch-drag .leaflet-tile-container,
+  &.leaflet-touch-zoom .leaflet-container {
+    transition: none;
+  }
+
+  &.leaflet-retina {
+    &.leaflet-tile,
+    &.leaflet-tile-container {
+      transform: scale(0.5);
+    }
+  }
+}

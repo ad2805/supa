@@ -1,0 +1,15 @@
+.detailMapSearch{
+    @media (max-width: 1500px) { 
+        flex-direction: column;
+       
+    }
+}
+
+.detailSeacrhBike{
+    border-radius: 5px;
+    @media (max-width:1500px) {
+        width: 100% !important;
+        
+    }
+}
+

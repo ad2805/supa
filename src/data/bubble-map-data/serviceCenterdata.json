@@ -1,0 +1,13 @@
+[
+    { "latitude": 12.9416, "longitude": 77.5946, "popup": 20, "state": "Karnataka" },
+    { "latitude": 13.0827, "longitude": 80.2707, "popup": 25, "state": "Tamil Nadu" },
+    { "latitude": 18.5204, "longitude": 73.8567, "popup": 30, "state": "Maharashtra" },
+    { "latitude": 28.7041, "longitude": 77.1025, "popup": 35, "state": "Delhi" },
+    { "latitude": 22.5726, "longitude": 88.3639, "popup": 40, "state": "West Bengal" },
+    { "latitude": 26.9124, "longitude": 75.7873, "popup": 45, "state": "Rajasthan" },
+    { "latitude": 17.3850, "longitude": 78.4867, "popup": 50, "state": "Telangana" },
+    { "latitude": 19.0760, "longitude": 72.8777, "popup": 55, "state": "Gujarat" },
+    { "latitude": 25.5941, "longitude": 85.1376, "popup": 60, "state": "Bihar" },
+    { "latitude": 15.2993, "longitude": 74.1240, "popup": 65, "state": "Goa" }
+  ]
+  

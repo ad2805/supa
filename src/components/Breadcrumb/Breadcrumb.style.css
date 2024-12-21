@@ -1,0 +1,45 @@
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.breadcrumb-item {
+  font-size: 26px;
+  line-height: 39px;
+}
+
+.breadcrumb-item {
+  text-decoration: none;
+  color: #000000;
+}
+
+@media (max-width: 1200px) {
+  .breadcrumb {
+    font-size: 18px !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .breadcrumb {
+    font-size: 15px !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .breadcrumb {
+    font-size: 12px !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .breadcrumb {
+    font-size: 14px !important;
+  }
+}
+
+@media (max-width: 450px) {
+  .breadcrumb {
+    font-size: 9px !important;
+  }
+}

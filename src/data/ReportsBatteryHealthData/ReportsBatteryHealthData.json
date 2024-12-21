@@ -1,0 +1,88 @@
+{
+    "India": {
+      "AllModels": {
+        "good": { "value": 65, "vehicles": 75000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      },
+      "GT": {
+        "good": { "value": 44, "vehicles": 75000 },
+        "satisfactory": { "value": 10, "vehicles": 1000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      },
+      "Adventure": {
+        "good": { "value": 74, "vehicles": 75000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      }
+    },
+    "AndhraPradesh": {
+      "AllModels": {
+        "good": { "value": 55, "vehicles": 75000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      },
+      "GT": {
+        "good": { "value": 56, "vehicles": 75000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      },
+      "Adventure": {
+        "good": { "value": 98, "vehicles": 75000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      }
+    },
+    "ArunachalPradesh": {
+      "AllModels": {
+        "good": { "value": 65, "vehicles": 75000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      },
+      "GT": {
+        "good": { "value": 74, "vehicles": 75000 },
+        "satisfactory": { "value": 10, "vehicles": 1000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      },
+      "Adventure": {
+        "good": { "value": 66, "vehicles": 81000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 12, "vehicles": 6000 }
+      }
+    },
+    "Assam": {
+      "AllModels": {
+        "good": { "value": 62, "vehicles": 85000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      },
+      "GT": {
+        "good": { "value": 54, "vehicles": 15000 },
+        "satisfactory": { "value": 10, "vehicles": 1000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      },
+      "Adventure": {
+        "good": { "value": 63, "vehicles": 81000 },
+        "satisfactory": { "value": 27, "vehicles": 21000 },
+        "critical": { "value": 8, "vehicles": 6000 }
+      }
+    },
+    "Bihar": {
+      "AllModels": {
+        "good": { "value": 68, "vehicles": 68000 },
+        "satisfactory": { "value": 21, "vehicles": 21000 },
+        "critical": { "value": 6, "vehicles": 6000 }
+      },
+      "GT": {
+        "good": { "value": 44, "vehicles": 51000 },
+        "satisfactory": { "value": 30, "vehicles": 11000 },
+        "critical": { "value": 12, "vehicles": 4000 }
+      },
+      "Adventure": {
+        "good": { "value": 68, "vehicles": 68000 },
+        "satisfactory": { "value": 27, "vehicles": 27000 },
+        "critical": { "value": 18, "vehicles": 18000 }
+      }
+    }
+  }
+  

@@ -1,0 +1,15 @@
+/* styles.css */
+
+/* Remove default border and add a bottom border */
+.select-usage {
+    border: none;
+    background-color:transparent;
+    padding: 5px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  /* Remove outline on focus */
+  .select-usage:focus {
+    outline: none;
+  }

@@ -1,0 +1,132 @@
+{
+  "India": {
+    "AllModels": [
+      {
+        "fastcharger": [1.5]
+      },
+      {
+        "normalcharger": [2.7]
+      }
+    ],
+    "GT": [
+      {
+        "fastcharger": [1.8]
+      },
+      {
+        "normalcharger": [2.2]
+      }
+    ],
+    "Adventure": [
+      {
+        "fastcharger": [1.5]
+      },
+      {
+        "normalcharger": [3]
+      }
+    ]
+  },
+  "AndhraPradesh": {
+    "AllModels": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [3.1]
+      }
+    ],
+    "GT": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ],
+    "Adventure": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ]
+  },
+  "ArunachalPradesh": {
+    "AllModels": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ],
+    "GT": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ],
+    "Adventure": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ]
+  },
+  "Assam": {
+    "AllModels": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ],
+    "GT": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ],
+    "Adventure": [
+      {
+        "fastcharger": [1.6]
+      },   
+      {
+        "normalcharger": [2.8]
+      }
+    ]
+  },
+  "Bihar": {
+    "AllModels": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ],
+    "GT": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ],
+    "Adventure": [
+      {
+        "fastcharger": [1.6]
+      },
+      {
+        "normalcharger": [2.8]
+      }
+    ]
+  }
+}

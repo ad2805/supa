@@ -1,0 +1,55 @@
+[
+  { "latitude": 11.9716, "longitude": 77.5946, "intensity": 10, "state": "Karnataka", "model": "AllModels" },
+  { "latitude": 16.9716, "longitude": 77.1145, "intensity": 5, "state": "Karnataka", "model": "AllModels" },
+  { "latitude": 12.9716, "longitude": 77.5946, "intensity": 15, "state": "Karnataka", "model": "AllModels" },
+  { "latitude": 14.9716, "longitude": 77.5975, "intensity": 15, "state": "Karnataka", "model": "GT" },
+  { "latitude": 12.9716, "longitude": 77.8551, "intensity": 5, "state": "Karnataka", "model": "GT" },
+  { "latitude": 13.9716, "longitude": 77.2105, "intensity": 10, "state": "Karnataka", "model": "Adventure" },
+
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 40, "state": "Delhi", "model": "AllModels" },
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 35, "state": "Delhi", "model": "AllModels" },
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 30, "state": "Delhi", "model": "AllModels" },
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 25, "state": "Delhi", "model": "GT" },
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 20, "state": "Delhi", "model": "Adventure" },
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 15, "state": "Delhi", "model": "Adventure" },
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 10, "state": "Delhi", "model": "Adventure" },
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 5, "state": "Delhi", "model": "GT" },
+  { "latitude": 28.6139, "longitude": 77.2090, "intensity": 18, "state": "Delhi", "model": "GT" },
+
+  { "latitude": 13.6288, "longitude": 79.4192, "intensity": 10, "state": "AndhraPradesh", "model": "AllModels" },
+  { "latitude": 16.5062, "longitude": 80.6480, "intensity": 5, "state": "AndhraPradesh", "model": "AllModels" },
+  { "latitude": 17.6868, "longitude": 83.2185, "intensity": 15, "state": "AndhraPradesh", "model": "AllModels" },
+  { "latitude": 15.8281, "longitude": 78.0373, "intensity": 15, "state": "AndhraPradesh", "model": "GT" },
+  { "latitude": 17.0000, "longitude": 81.8040, "intensity": 5, "state": "AndhraPradesh", "model": "GT" },
+  { "latitude": 14.4426, "longitude": 79.9865, "intensity": 10, "state": "AndhraPradesh", "model": "Adventure" },
+  
+  { "latitude": 27.5946, "longitude": 91.8631, "intensity": 10, "state": "ArunachalPradesh", "model": "AllModels" },
+  { "latitude": 27.0844, "longitude": 93.6056, "intensity": 5, "state": "ArunachalPradesh", "model": "AllModels" },
+  { "latitude": 27.5626, "longitude": 93.8287, "intensity": 15, "state": "ArunachalPradesh", "model": "AllModels" },
+  { "latitude": 27.0885, "longitude": 96.4700, "intensity": 15, "state": "ArunachalPradesh", "model": "GT" },
+  { "latitude": 27.2547, "longitude": 92.4154, "intensity": 5, "state": "ArunachalPradesh", "model": "GT" },
+  { "latitude": 28.3631, "longitude": 95.2653, "intensity": 10, "state": "ArunachalPradesh", "model": "Adventure" },
+
+  { "latitude": 19.0760, "longitude": 72.8777, "intensity": 20, "state": "Maharashtra", "model": "AllModels" },
+  { "latitude": 19.0760, "longitude": 72.8777, "intensity": 25, "state": "Maharashtra", "model": "AllModels" },
+  { "latitude": 19.0760, "longitude": 72.8777, "intensity": 15, "state": "Maharashtra", "model": "AllModels" },
+  { "latitude": 19.0760, "longitude": 72.8777, "intensity": 10, "state": "Maharashtra", "model": "Adventure" },
+  { "latitude": 19.0750, "longitude": 72.8427, "intensity": 30, "state": "Maharashtra", "model": "Adventure" },
+  { "latitude": 19.0760, "longitude": 72.8707, "intensity": 22, "state": "Maharashtra", "model": "Adventure" },
+  { "latitude": 19.0760, "longitude": 72.8777, "intensity": 18, "state": "Maharashtra", "model": "GT" },
+  { "latitude": 19.0760, "longitude": 72.8777, "intensity": 12, "state": "Maharashtra", "model": "GT" },
+  { "latitude": 19.0760, "longitude": 72.8777, "intensity": 8, "state": "Maharashtra", "model": "GT" },
+  { "latitude": 19.0760, "longitude": 72.8777, "intensity": 14, "state": "Maharashtra", "model": "GT" },
+
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 15, "state": "West Bengal", "model": "AllModels" },
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 20, "state": "West Bengal", "model": "AllModels" },
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 25, "state": "West Bengal", "model": "GT" },
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 30, "state": "West Bengal", "model": "GT" },
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 35, "state": "West Bengal", "model": "Adventure" },
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 40, "state": "West Bengal", "model": "Adventure" },
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 10, "state": "West Bengal", "model": "Adventure" },
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 18, "state": "West Bengal", "model": "GT" },
+  { "latitude": 22.5726, "longitude": 88.3639, "intensity": 8, "state": "West Bengal", "model": "AllModels" }
+
+]
+ 

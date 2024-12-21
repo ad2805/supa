@@ -1,0 +1,36 @@
+.flexOngoingComplaints {
+  @media (max-width: 1000px) {
+    flex-direction: column;
+    font-size: 14px !important;
+    justify-content: center !important;
+  }
+}
+
+.imgBoxOngoing {
+  border-radius: 5px;
+  @media (max-width: 1000px) {
+    width: 80% !important;
+    align-items: center !important;
+  }
+}
+
+.ongoinComplaintsText {
+  @media (max-width: 1650px) {
+    font-size: 16px !important;
+  }
+  @media (max-width: 1262px) {
+    font-size: 13px !important;
+  }
+  @media (max-width: 1116px) {
+    font-size: 11px !important;
+  }
+  @media (max-width: 1000px) {
+    font-size: 10px !important;
+  }
+  /* @media (max-width: 867px) {
+      font-size: 6px !important;
+    } */
+  @media (max-width: 765px) {
+    font-size: 10px !important;
+  }
+}

@@ -1,0 +1,35 @@
+/* Original styles for desktop screens */
+/* .service-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+   */
+/* Media query for screens smaller than 768px (typical size for tablets) */
+
+/* @media (max-width: 1722px) {
+    .service-section {
+      flex-direction: column; 
+      gap: 15px; 
+    }
+  } */
+
+@media (max-width: 810px) {
+  .service-section {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+/* @media (max-width: 1722px) {
+    .service-data {
+     align-items: center;
+    }
+  } */
+
+.vehicleServiceText {
+  @media (max-width: 1440px) {
+    font-size: 13px !important;
+  }
+}

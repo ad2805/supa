@@ -1,0 +1,110 @@
+[
+  {
+    "Region": "India",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "bikes": 75000,
+        "range": "80 Km",
+        "speed": "60 Km/hr",
+        "bluetooth": "50%"
+      },
+      {
+        "Model": "GT",
+        "bikes": 3000,
+        "range": "70 Km",
+        "speed": "55 Km/hr",
+        "bluetooth": "40%"
+      },
+      {
+        "Model": "Adventure",
+        "bikes": 5000,
+        "range": "90 Km",
+        "speed": "70 Km/hr",
+        "bluetooth": "60%"
+      }
+    ]
+  },
+  {
+    "Region": "AndhraPradesh",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "bikes": 45000,
+        "range": "65 Km",
+        "speed": "55 Km/hr",
+        "bluetooth": "70%"
+      },
+      {
+        "Model": "GT",
+        "bikes": 1000,
+        "range": "50 Km",
+        "speed": "60 Km/hr",
+        "bluetooth": "35%"
+      },
+      {
+        "Model": "Adventure",
+        "bikes": 2000,
+        "range": "80 Km",
+        "speed": "65 Km/hr",
+        "bluetooth": "50%"
+      }
+      
+    ]
+  },
+  {
+    "Region": "ArunachalPradesh",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "bikes": 6000,
+        "range": "75 Km",
+        "speed": "65 Km/hr",
+        "bluetooth": "55%"
+      },
+      {
+        "Model": "GT",
+        "bikes": 1200,
+        "range": "55 Km",
+        "speed": "50 Km/hr",
+        "bluetooth": "30%"
+      },
+      {
+        "Model": "Adventure",
+        "bikes": 3000,
+        "range": "85 Km",
+        "speed": "75 Km/hr",
+        "bluetooth": "70%"
+      }
+
+    ]
+  },
+  {
+    "Region": "Assam",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "bikes": 4500,
+        "range": "68 Km",
+        "speed": "52 Km/hr",
+        "bluetooth": "45%"
+      },
+      {
+        "Model": "GT",
+        "bikes": 800,
+        "range": "45 Km",
+        "speed": "48 Km/hr",
+        "bluetooth": "25%"
+      },
+      {
+        "Model": "Adventure",
+        "bikes": 1800,
+        "range": "78 Km",
+        "speed": "68 Km/hr",
+        "bluetooth": "60%"
+      }
+
+    ]
+  }
+
+]

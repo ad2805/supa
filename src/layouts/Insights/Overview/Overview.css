@@ -1,0 +1,20 @@
+@media (max-width: 1280px) {
+  .reportFlex {
+    flex-direction: column; /* Change flex direction to column for screens <= 1280px */
+  }
+}
+
+@media (max-width: 1280px) {
+  .reportBox {
+    width: 100% !important; /* Set width to 100% for screens <= 1280px */
+  }
+}
+
+@media (max-width: 918px) {
+  .selectBurnText {
+    font-size: 14px !important;
+  }
+  .reportSelectBar {
+    flex-direction: column;
+  }
+}

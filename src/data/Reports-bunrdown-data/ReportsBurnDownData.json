@@ -1,0 +1,427 @@
+{
+  "India": {
+    "Models": [
+      {
+        "Model": "AllModels",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 95 }
+          },
+          "averagerange": {
+            "point": { "x": 81 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 10 }
+          },
+          "averagerange": {
+            "point": { "x": 8 }
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      },
+      {
+        "Model": "GT",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 87 }
+          },
+          "averagerange": {
+            "point": { "x": 72 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 9}
+          },
+          "averagerange": {
+            "point": { "x": 8 }
+          },
+          "lowestrange": {
+            "point": { "x": 6.5 }
+          }
+        }
+      },
+      {
+        "Model": "Adventure",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 85 }
+          },
+          "averagerange": {
+            "point": { "x": 81 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 8.5 }
+          },
+          "averagerange": {
+            "point": { "x": 8 }
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      }
+    ]
+  },
+  "AndhraPradesh": {
+    "Models": [
+      {
+        "Model": "AllModels",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x":  75}
+          },
+          "averagerange": {
+            "point": { "x": 69 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 9 }
+          },
+          "averagerange": {
+            "point": { "x": 7}
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      },
+      {
+        "Model": "GT",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 83 }
+          },
+          "averagerange": {
+            "point": { "x": 72 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 8.5}
+          },
+          "averagerange": {
+            "point": { "x": 8 }
+          },
+          "lowestrange": {
+            "point": { "x": 5 }
+          }
+        }
+      },
+      {
+        "Model": "Adventure",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 81 }
+          },
+          "averagerange": {
+            "point": { "x": 77 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 7.9 }
+          },
+          "averagerange": {
+            "point": { "x": 7.5 }
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      }
+    ]
+  },
+  "ArunachalPradesh": {
+    "Models": [
+      {
+        "Model": "AllModels",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x":  75}
+          },
+          "averagerange": {
+            "point": { "x": 69 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 9 }
+          },
+          "averagerange": {
+            "point": { "x": 7}
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      },
+      {
+        "Model": "GT",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 83 }
+          },
+          "averagerange": {
+            "point": { "x": 72 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 8.5}
+          },
+          "averagerange": {
+            "point": { "x": 8 }
+          },
+          "lowestrange": {
+            "point": { "x": 5 }
+          }
+        }
+      },
+      {
+        "Model": "Adventure",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 81 }
+          },
+          "averagerange": {
+            "point": { "x": 77 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 7.9 }
+          },
+          "averagerange": {
+            "point": { "x": 7.5 }
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      }
+    ]
+  },
+  "Assam": {
+    "Models": [
+      {
+        "Model": "AllModels",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x":  75}
+          },
+          "averagerange": {
+            "point": { "x": 69 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 9 }
+          },
+          "averagerange": {
+            "point": { "x": 7}
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      },
+      {
+        "Model": "GT",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 83 }
+          },
+          "averagerange": {
+            "point": { "x": 72 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 8.5}
+          },
+          "averagerange": {
+            "point": { "x": 8 }
+          },
+          "lowestrange": {
+            "point": { "x": 5 }
+          }
+        }
+      },
+      {
+        "Model": "Adventure",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 81 }
+          },
+          "averagerange": {
+            "point": { "x": 77 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 7.9 }
+          },
+          "averagerange": {
+            "point": { "x": 7.5 }
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      }
+    ]
+  },
+  "Bihar": {
+    "Models": [
+      {
+        "Model": "AllModels",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x":  75}
+          },
+          "averagerange": {
+            "point": { "x": 69 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 9 }
+          },
+          "averagerange": {
+            "point": { "x": 7}
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      },
+      {
+        "Model": "GT",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 83 }
+          },
+          "averagerange": {
+            "point": { "x": 72 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 8.5}
+          },
+          "averagerange": {
+            "point": { "x": 8 }
+          },
+          "lowestrange": {
+            "point": { "x": 5 }
+          }
+        }
+      },
+      {
+        "Model": "Adventure",
+        "batteryVsDistance": {
+          "xAxisTitle": "Kilometer",
+          "highestrange": {
+            "point": { "x": 81 }
+          },
+          "averagerange": {
+            "point": { "x": 77 }
+          },
+          "lowestrange": {
+            "point": { "x": 65 }
+          }
+        },
+        "batteryVsTime": {
+          "xAxisTitle": "Days",
+          "highestrange": {
+            "point": { "x": 7.9 }
+          },
+          "averagerange": {
+            "point": { "x": 7.5 }
+          },
+          "lowestrange": {
+            "point": { "x": 6 }
+          }
+        }
+      }
+    ]
+  }
+}

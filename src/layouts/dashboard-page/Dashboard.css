@@ -1,0 +1,159 @@
+.dashboard-header{
+
+  & p {
+    font-size: 24px;
+    font-weight: 500;
+  }
+}
+
+
+.dashboard-container{
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+
+/* This is the parent container */
+.maps-widget-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+/* css for google map and not decided */
+.map-temp-container {
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  
+
+}
+/* css for google map */
+.google-map {
+  height: 275px;
+  padding: 10px;
+  background-color: #ffffff;
+  align-items: center;
+  border-radius: 5px;
+  & p {
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 10px;
+  }
+}
+
+.calendar {
+  height: 275px;
+  /* width:100%; */
+  background: #ffffff;
+  border-radius: 5px;
+  & p {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  & .clendar-box{
+    height:50vh; 
+  }
+}
+
+/* css for heat map */
+.heat-map-container {
+  width: 65%;
+  /* height: 100%; */
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  & p {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+}
+
+.city-service-container{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+
+}
+
+.Pop-city{
+  width: 35%;
+  padding: 10px;
+  border-radius: 5px;
+  /* align-items: center; */
+  display: flex;
+  flex-direction: column;
+  & p {
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 20px;
+  }
+}
+
+.service{
+  padding: 10px;
+  width: 65%;
+  border-radius: 5px;
+  & #service-title {
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+}
+/* Original styles for desktop screens */
+.maps-widget-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+/* Media query for screens smaller than 768px (typical size for mobile devices) */
+@media (max-width: 1200px) {
+  .maps-widget-container {
+    flex-direction: column; /* Change flex direction to column for mobile screens */
+    gap: 20px; /* Adjust gap for better spacing */
+  }
+
+  .map-temp-container {
+    width: 100%; /* Occupy the full width of the container */
+  }
+
+  .heat-map-container {
+    width: 100%; /* Occupy the full width of the container */
+  }
+}
+
+@media (max-width: 1200px) {
+  .city-service-container {
+    flex-direction: column; /* Change flex direction to column for mobile screens */
+    gap: 20px; /* Adjust gap for better spacing */
+  }
+
+  .Pop-city {
+    width: 100%; /* Occupy the full width of the container */
+  }
+
+  .service {
+    width: 100%; /* Occupy the full width of the container */
+  }
+}
+
+
+/* Original styles for desktop screens */
+
+
+/* Media query for screens smaller than or equal to 918px */
+@media (max-width: 918px) {
+  .dashboardSelectBar {
+    justify-content: flex-start !important;
+    flex-direction: column ; /* Change flex direction to column for screens <= 918px */
+    gap: 10px;
+  }
+}

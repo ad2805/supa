@@ -1,0 +1,59 @@
+
+{
+    "India": {
+      "AllModels": {
+        "series": [4456, 65074, 24041]
+      },
+      "GT": {
+        "series": [11256, 85074, 13041]
+      },
+      "Adventure": {
+        "series": [9056, 65074, 24041]
+      }
+    },
+    "AndhraPradesh": {
+        "AllModels": {
+          "series": [4412, 55074, 15041]
+        },
+        "GT": {
+          "series": [3502, 65074, 24041]
+        },
+        "Adventure": {
+          "series": [5232, 45074, 32041]
+        }
+      },
+      "ArunachalPradesh": {
+        "AllModels": {
+          "series": [7856, 65074, 24041]
+        },
+        "GT": {
+          "series": [61256, 15074, 13041]
+        },
+        "Adventure": {
+          "series": [4056, 45074, 24041]
+        }
+      },
+      "Assam": {
+        "AllModels": {
+          "series": [3456, 65074, 24041]
+        },
+        "GT": {
+          "series": [13256, 74074, 13041]
+        },
+        "Adventure": {
+          "series": [9556, 65774, 24041]
+        }
+      },
+      "Bihar": {
+        "AllModels": {
+          "series": [4356, 65074, 35041]
+        },
+        "GT": {
+          "series": [11256, 85424, 23041]
+        },
+        "Adventure": {
+          "series": [9136, 35074, 21241]
+        }
+      }
+  }
+  

@@ -1,0 +1,7 @@
+@media (max-width: 1280px) {
+    .PredictionFlex {
+      flex-direction: column; /* Change flex direction to column for screens <= 1280px */
+      margin-right: 30px;
+    }
+  }
+  

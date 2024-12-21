@@ -1,0 +1,78 @@
+[
+  {
+    "Region": "AndhraPradesh",
+    "Models": [
+      {
+        "Model": "GT",
+        "ownerName": "Mahadev Simha",
+        "vehicleno": "KA 13 ES 7666",
+        "lastservice": "25/07/2023",
+        "address": "Hassan, Karnataka"
+      },
+      {
+        "ownerName": "Ashuthosh Singh",
+        "vehicleno": "KA 12 EE 8789",
+        "lastservice": "25/07/2023",
+        "address": "Bihar, India",
+        "Model": "GT"
+      },
+      {
+        "ownerName": "Saurabh Gupta",
+        "vehicleno": "KA 05 EE 9558",
+        "lastservice": "25/07/2023",
+        "Model": "GT",
+        "address": "Bihar, India"
+      },
+      {
+        "ownerName": "Mayank Ashwati",
+        "vehicleno": "KA 01 HY 15548",
+        "lastservice": "25/07/2023",
+        "Model": "GT",
+        "address": "Begaluru, Karnataka"
+      },
+      {
+        "ownerName": "Mahadev Simha",
+        "vehicleno": "KA 13 GJ 8789",
+        "lastservice": "25/07/2023",
+        "Model": "GT",
+        "address": "Begaluru, Karnataka"
+      },
+
+      {
+        "ownerName": "Mahadev Huli",
+        "vehicleno": "KA 13 ES 7666",
+        "lastservice": "25/07/2023",
+        "Model": "GT",
+        "address": "Hassan, Karnataka"
+      },
+      {
+        "ownerName": "Ashuthosh Singh",
+        "vehicleno": "KA 12 EE 8789",
+        "lastservice": "25/07/2023",
+        "Model": "GT",
+        "address": "Bihar, India"
+      },
+      {
+        "ownerName": "Saurabh Gupta",
+        "vehicleno": "KA 05 EE 9558",
+        "lastservice": "25/07/2023",
+        "Model": "GT",
+        "address": "Nepal"
+      },
+      {
+        "ownerName": "Mayank Ashwati",
+        "vehicleno": "KA 01 HY 15548",
+        "lastservice": "25/07/2023",
+        "Model": "GT",
+        "address": "Begaluru, Karnataka"
+      },
+      {
+        "ownerName": "Mahadev Simha",
+        "vehicleno": "KA 13 GJ 8789",
+        "lastservice": "25/07/2023",
+        "Model": "GT",
+        "address": "Begaluru, Karnataka"
+      }
+    ]
+  }
+]

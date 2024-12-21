@@ -1,0 +1,117 @@
+[
+  {
+    "Region": "India",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "totalVehicles": 75000,
+        "vehiclesServiced": 40000,
+        "vehiclesDueForService": 35000
+      },
+      {
+        "Model": "GT",
+        "totalVehicles": 75000,
+        "vehiclesServiced": 56555,
+        "vehiclesDueForService": 35000
+      },
+      {
+        "Model": "Adventure",
+        "totalVehicles": 565151,
+        "vehiclesServiced": 40000,
+        "vehiclesDueForService": 35000
+      }
+    ]
+  },
+  {
+    "Region": "AndhraPradesh",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "totalVehicles": 75450,
+        "vehiclesServiced": 40000,
+        "vehiclesDueForService": 35000
+      },
+      {
+        "Model": "GT",
+        "totalVehicles": 75000,
+        "vehiclesServiced": 56555,
+        "vehiclesDueForService": 35000
+      },
+      {
+        "Model": "Adventure",
+        "totalVehicles": 565151,
+        "vehiclesServiced": 40000,
+        "vehiclesDueForService": 35000
+      }
+    ]
+  },
+  {
+    "Region": "ArunachalPradesh",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "totalVehicles": 75000,
+        "vehiclesServiced": 40000,
+        "vehiclesDueForService": 35000
+      },
+      {
+        "Model": "GT",
+        "totalVehicles": 75000,
+        "vehiclesServiced": 71555,
+        "vehiclesDueForService": 31100
+      },
+      {
+        "Model": "Adventure",
+        "totalVehicles": 4551,
+        "vehiclesServiced": 4010,
+        "vehiclesDueForService": 300
+      }
+    ]
+  },
+  {
+    "Region": "Assam",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "totalVehicles": 79000,
+        "vehiclesServiced": 4100,
+        "vehiclesDueForService": 34000
+      },
+      {
+        "Model": "GT",
+        "totalVehicles": 75000,
+        "vehiclesServiced": 56555,
+        "vehiclesDueForService": 35000
+      },
+      {
+        "Model": "Adventure",
+        "totalVehicles": 565151,
+        "vehiclesServiced": 40000,
+        "vehiclesDueForService": 35000
+      }
+    ]
+  },
+  {
+    "Region": "Bihar",
+    "Models": [
+      {
+        "Model": "AllModels",
+        "totalVehicles": 5456,
+        "vehiclesServiced": 4000,
+        "vehiclesDueForService": 3000
+      },
+      {
+        "Model": "GT",
+        "totalVehicles": 75070,
+        "vehiclesServiced": 565,
+        "vehiclesDueForService": 3500
+      },
+      {
+        "Model": "Adventure",
+        "totalVehicles": 565151,
+        "vehiclesServiced": 40000,
+        "vehiclesDueForService": 15000
+      }
+    ]
+  }
+]

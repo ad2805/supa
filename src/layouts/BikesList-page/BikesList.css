@@ -1,0 +1,9 @@
+@media (max-width: 918px) {
+    .BikeListTitle {
+      justify-content: flex-start !important;
+      flex-direction: column ; /* Change flex direction to column for screens <= 918px */
+      gap: 10px;
+      align-items: start !important;
+    }
+  }
+  
